@@ -1,7 +1,7 @@
 **Ears: Bass Boost, EQ Any Audio!**  
 https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik  
 
-**povly0.json**  
+**Screamlark.json**  
 
 ru:Последний пресет  
 en:Last preset  
