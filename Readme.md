@@ -1,8 +1,12 @@
-Последний пресет/Last preset Ney_Nehimy.json
+Ears: Bass Boost, EQ Any Audio!  
+https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik  
 
-Ears: Bass Boost, EQ Any Audio!
+Ney_Nehimy.json
 
-https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik
+ru:Последний пресет  
+en:Last preset  
+es:Último ajuste preestablecido  
+
 
  en: Download JSON file  
  ru: Скачайте JSON файл  
