@@ -1,4 +1,4 @@
-Последний пресет/Last preset iMaxFreeman.json
+Последний пресет/Last preset Ney_Nehimy.json
 
 Ears: Bass Boost, EQ Any Audio!
 
