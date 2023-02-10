@@ -2,11 +2,10 @@
 https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik  
 
 **Ney_Nehimy.json**  
+
 ru:Последний пресет  
 en:Last preset  
 es:Último ajuste preestablecido  
-
-
 
  en: Download JSON file  
  ru: Скачайте JSON файл  
