@@ -1,4 +1,4 @@
-Последний пресет/Last preset EarsRob.json
+Последний пресет/Last preset iMaxFreeman.json
 
 Ears: Bass Boost, EQ Any Audio!
 
